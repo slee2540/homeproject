@@ -25,7 +25,7 @@ class Customers extends Component {
             <li key={customer.id}> {customer.firstName} {customer.lastName}</li>
           )}
         </ul>
-          테스트입니다.ㅣ
+          테스트입니다.이번엔 두번쨰 수정
       </div>
     );
   }
